@@ -13,6 +13,7 @@ export const Bio = {
   twitter: "https://twitter.com/Nageswa96309283",
   insta: "https://www.instagram.com/nageswarrao_25/",
   facebook: "https://www.facebook.com//",
+  email:"vnr235@gmail.com",
 };
 
 export const skills = [
@@ -273,7 +274,7 @@ export const projects = [
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/vnr235/2048-Game",
-    webapp: "https://vnr235.github.io/2048-Game/",
+    webapp: " https://vnr235.github.io/2048-Game/",
     
   },
   {
