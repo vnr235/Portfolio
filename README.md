@@ -1,3 +1,7 @@
+#OPEN IN BROWSER
+[VNR](https://nageswarrao-portfolio-f2eqqokpg-nageswarraos-projects.vercel.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
