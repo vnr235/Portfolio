@@ -13,7 +13,7 @@ export const Bio = {
   twitter: "https://twitter.com/Nageswa96309283",
   insta: "https://www.instagram.com/nageswarrao_25/",
   facebook: "https://www.facebook.com//",
-  email:"vnr235@gmail.com",
+  email:"mailto:vnr235@gmail.com",
 };
 
 export const skills = [
@@ -164,7 +164,7 @@ export const projects = [
     description:
       "This application is useful for travellers and emergencie situations. In this there are two type of user MECHANIC and CUSTOMER, where mechanic provide service to the customer",
     image:
-      "https://drive.google.com/file/d/1O1F7Z8y7GbVEb7OxtVQhjoHtRi1gTBJ-/view?usp=sharing",
+      "https://drive.google.com/file/d/1zAKfykDGV4qViZQ6XE_qSKz1dvMajaRe/view?usp=sharing",
     tags: [
       "Docker",
       "React Js",
@@ -182,7 +182,7 @@ export const projects = [
     description:
       "It is a game of 2048. It is developed for entertainment purpose and also for some basic mathematic  skills.",
     image:
-      "https://private-user-images.githubusercontent.com/136591900/320341087-745a6cce-ff7e-48c0-895b-6af2858a950f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1NDUxNjksIm5iZiI6MTcxMjU0NDg2OSwicGF0aCI6Ii8xMzY1OTE5MDAvMzIwMzQxMDg3LTc0NWE2Y2NlLWZmN2UtNDhjMC04OTViLTZhZjI4NThhOTUwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwOFQwMjU0MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTczNGY0ZWM3NGFjOTg5MjcxMjkzNGYyZDg5YjU3NWY5MTI2OGVkMzEzMWJiNzIwZTlhYzJhNDcxZjdmMjgwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.a7gZSEjh05LhaQyWZGJPGB8kdOYpl6I81N4rJ7Y7tfY",
+      "https://github.com/vnr235/2048-Game/assets/136591900/745a6cce-ff7e-48c0-895b-6af2858a950f",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/vnr235/2048-Game",
@@ -195,7 +195,7 @@ export const projects = [
     description:
       "This is the platform like E-commerce, where any one can sell the products and buy the products.",
     image:
-      "https://private-user-images.githubusercontent.com/136591900/319749642-6f0d6eb7-5daf-49e8-bab9-b2285a33c9b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1NDU2NDgsIm5iZiI6MTcxMjU0NTM0OCwicGF0aCI6Ii8xMzY1OTE5MDAvMzE5NzQ5NjQyLTZmMGQ2ZWI3LTVkYWYtNDllOC1iYWI5LWIyMjg1YTMzYzliMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwOFQwMzAyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yN2Q4OTJlZmRjZjdjNzkxMTY2NDBkNGY4YTIzNThiOTNkOTU3OTlmN2Y5YjIwZmExM2JiNDllZDEzZGY3NGZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9aN3bXR0SrGOh7eUcsAmsOvp7hz4s2Q6M8SO02P1Agc",
+      "https://github.com/vnr235/OLX-Project/assets/136591900/6f0d6eb7-5daf-49e8-bab9-b2285a33c9b0",
     tags: [
       "React Js",
       "MongoDb",

@@ -127,7 +127,7 @@ const Contact = () => {
   //hooks
   const [open, setOpen] = React.useState(false);
   const form = useRef();
-
+  
   const handleSubmit = (e) => {
     e.preventDefault();
     emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
@@ -152,7 +152,8 @@ const Contact = () => {
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
-          <ContactButton type="submit" value="Send" />
+          <input type="hidden" name="to_email" value="vnr235@gmail.com" />
+          <ContactButton type="submit" value="Send"/>
         </ContactForm>
         <Snackbar
           open={open}
