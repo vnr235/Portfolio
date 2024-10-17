@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/vnr235",
   resume:
-    "https://drive.google.com/file/d/1zHMO8wADIaIx8hpnPOGvn4NtcPEAhU4O/view?usp=sharing",
+    "https://drive.google.com/file/d/1wgAN6tvYmAntCkIPtvT7efRAZ2F71N9K/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nageswar-rao-85826a228/",
   twitter: "https://twitter.com/Nageswa96309283",
   insta: "https://www.instagram.com/nageswarrao_25/",
@@ -162,19 +162,19 @@ export const projects = [
     id: 9,
     title: "On-road Vehicale Breakdown Assistance",
     description:
-      "This application is useful for travellers and emergencie situations. In this there are two type of user MECHANIC and CUSTOMER, where mechanic provide service to the customer",
+      "This application is useful for travellers in emergency situations. In this there are two type of user MECHANIC and CUSTOMER, where mechanic provide service to the customer",
     image:
-      "https://drive.google.com/file/d/1zAKfykDGV4qViZQ6XE_qSKz1dvMajaRe/view?usp=sharing",
+      "https://github.com/vnr235/On_Road_Vehicle_Breakdown_Assisstance/blob/main/frontend/public/images/homepage.png?raw=true",
     tags: [
-      "Docker",
       "React Js",
       "MongoDb",
       "Node Js",
+      "JavaScript",
       "Express Js",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/vnr235/On_Road_Vehicle_Breakdown_Assisstance",
+    webapp: "https://github.com/vnr235/On_Road_Vehicle_Breakdown_Assisstance",
   },
   {
     id: 0,
