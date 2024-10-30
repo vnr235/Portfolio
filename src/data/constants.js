@@ -174,7 +174,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/vnr235/On_Road_Vehicle_Breakdown_Assisstance",
-    webapp: "https://github.com/vnr235/On_Road_Vehicle_Breakdown_Assisstance",
+    webapp: "https://on-road-vehicle-breakdown-assisstance.vercel.app/",
   },
   {
     id: 0,
