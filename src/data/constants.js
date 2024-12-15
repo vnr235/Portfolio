@@ -133,8 +133,8 @@ export const education = [
     img: "https://pbs.twimg.com/profile_images/1627702356803715072/F8w88oa2_400x400.jpg",
     school: "Parul University, Vadodara",
     date: "Aug 2021 - Sep 2025",
-    grade: "7.30 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Parul University, Vadodara. I have completed 5 semesters and have a CGPA of 7.30. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "7.39 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Parul University, Vadodara. I have completed 6 semesters and have a CGPA of 7.39. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
